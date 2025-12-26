@@ -21,8 +21,8 @@ A classic Snake Game built using **Python and Pygame**, showcasing object-orient
 - ESC → Quit Game
 
 ## 📸 Demo
-![Snake Gameplay](screenshorts/snake_game.png)
-![Game Over](screenshorts/game_over.png)
+![Snake Gameplay](Screenshorts/snake_game.png)
+![Game Over](Screenshorts/game_over.png)
 
 ## 🧠 What I Learned
 - Game loop architecture
